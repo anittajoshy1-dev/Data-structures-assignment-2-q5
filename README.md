@@ -1,2 +1,17 @@
-# Data-structures-assignment-2-q5
-Data structures and algorithms assignment 2 question 5
+# Data Structures Assignment 2 - Question 5
+
+## Topic
+Organisational Hierarchy and Department Searching
+
+## Description
+This project represents a company organisational hierarchy using a general tree and compares Linear Search and Binary Search for locating department names.
+
+## Contents
+- tree_hierarchy.c - Tree construction and level-order traversal
+- searching.c - Linear Search and Binary Search
+- input.txt - Input data
+- output.txt - Program output
+- trace_table.txt - Important intermediate steps
+- complexity_analysis.txt - Time and space complexity
+- comparison_table.txt - Search method comparison
+- conclusion.txt - Final conclusion
