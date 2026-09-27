@@ -14,7 +14,7 @@ Binary Search: Found, comparisons = 3
 Search 2:
 Input: IT
 Linear Search: Found, comparisons = 7
-Binary Search: Found, comparisons = 2
+Binary Search: Found, comparisons = 3
 
 Search 3:
 Input: Testing
